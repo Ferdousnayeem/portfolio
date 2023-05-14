@@ -208,6 +208,12 @@ span {
     line-height: 30px;
 }
 
+.wordpress{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .mydetails.box_shadow h2 {
     font-weight: bold;
   font-family:  'Exo 2', sans-serif;;
